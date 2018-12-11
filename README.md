@@ -15,6 +15,9 @@
 ### Day 3: October 1  , 2018
  **Today's Progress** : Implmented  Image Classification in Tensorflow .
 
+ ### Date:11/12/2018
+ **Today's progress** :Implemented Image classification in Pytorch part of Pytorch Scholarship Changellenge.
+
  
 
 
