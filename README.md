@@ -15,8 +15,33 @@
 ### Day 3: October 1  , 2018
  **Today's Progress** : Implmented  Image Classification in Tensorflow .
 
- ### Date:11/12/2018
- **Today's progress** :Implemented Image classification in Pytorch part of Pytorch Scholarship Changellenge.
+### Date:11/12/2018
+ **Today's progress** :Started learning the  Udacity KPITscholarship.
+
+### Date:12/12/2018
+ **Today's progress** :Learned lot of new things on self driving car part of KPIT Scholarship.
+
+### Date:13/12/2018
+ **Today's progress** : Learned about the detecting Lane lines in self driving carpart of KPIT Scholarship.
+
+### Date:14/12/2018
+ **Today's progress** :Analysis code for findid lane lines in open CV part of KPIT Scholarship.
+
+### Date:15/12/2018
+ **Today's progress** :Implemented Image classification in Pytorch part of KPIT Scholarship.
+
+### Date:16/12/2018
+ **Today's progress** :Implemented Image classification in Pytorch part of KPIT Scholarship.
+
+### Date:17/12/2018
+ **Today's progress** :Detected Lane Lines part of KPIT  Scholarship.
+
+### Date:18/12/2018
+ **Today's progress** :Started learning the Project 2  part of KPIT  Scholarship.
+
+
+
+
 
  
 
