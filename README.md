@@ -25,7 +25,7 @@
  **Today's progress** : Learned about the detecting Lane lines in self driving carpart of KPIT Scholarship.
 
 ### Date:14/12/2018
- **Today's progress** :Analysis code for findid lane lines in open CV part of KPIT Scholarship.
+ **Today's progress** :Analysis code for finding lane lines in open CV part of KPIT Scholarship.
 
 ### Date:15/12/2018
  **Today's progress** :Implemented Image classification in Pytorch part of KPIT Scholarship.
