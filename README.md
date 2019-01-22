@@ -39,8 +39,17 @@
 ### Date:18/12/2018
  **Today's progress** :Started learning the Project 2  part of KPIT  Scholarship.
 
+### Date:21/01/2019
+ ** Today's progress** : Working on Behavioral Cloning project
 
+### Date:20/01/2019
+ ** Today's progress** : praticed  python concepts and submitted Behavioral Cloning  project as a part of KPIT Scholarship.
 
+### Date:21/01/2019
+ ** Today's progress** : Learned python concepts on Variables,Datatypes and control flow statements also learned about Desicion Tree algorithm in StatQuest.
+
+### Date:22/01/2019
+ ** Today's progress** : Learned python concepts on list,Dictionay and set also learned about what is q-learning.
 
 
  
