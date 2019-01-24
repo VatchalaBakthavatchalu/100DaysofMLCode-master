@@ -51,6 +51,11 @@
 ### Date:22/01/2019
  ** Today's progress** : Learned python concepts on list,Dictionay and set also learned about what is q-learning.
 
+### Date:23/01/2019
+ ** Today's progress** : Learned python concepts on Control flow in udacity also learned about what is deep q-learning,Naive Bayes therom and revisited the Finding Lane Lines porject.
+
+### Date:24/01/2019
+ ** Today's progress** : Learned python concepts on loop and list comp also re-visited the Advance Lane Detection project.
 
  
 
