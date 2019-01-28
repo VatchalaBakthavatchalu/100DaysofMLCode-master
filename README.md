@@ -55,7 +55,16 @@
  ** Today's progress** : Learned python concepts on Control flow in udacity also learned about what is deep q-learning,Naive Bayes therom and revisited the Finding Lane Lines porject.
 
 ### Date:24/01/2019
- ** Today's progress** : Learned python concepts on loop and list comp also re-visited the Advance Lane Detection project.
+ ** Today's progress** : Learned python concepts  also re-visited the Advance Lane Detection project and re-worked in code.
+
+### Date:25/01/2019
+ ** Today's progress** : Learned python concepts  also re-visited the Advance Lane Detection project and re-worked in code.
+ 
+### Date:26/01/2019
+ ** Today's progress** : Learned python concepts  also re-visited the Advance Lane Detection project and re-worked in code.
+
+### Date:27/01/2019
+ ** Today's progress** : Completed the python free course in Udacity also re-visited the Advance Lane Detection project and re-worked in code.
 
  
 
