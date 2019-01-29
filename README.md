@@ -70,7 +70,7 @@
  ** Today's progress** : Satrted learning about SQL and C++ free course in Udacity also re-visited the Finding  Lane Detection project and re-worked in code with np.polyfit.
 
 ### Date:29/01/2019
- ** Today's progress** : Paticed the coding for ascal triangle and play aroung SQL db.
+ ** Today's progress** : Praticed the coding for ascal triangle and play aroung SQL db.
 
 ### Date:30/01/2019
  ** Today's progress** : Completed the python free course in Udacity also re-visited the Advance Lane Detection project and re-worked in code.
