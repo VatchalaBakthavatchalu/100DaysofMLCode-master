@@ -73,7 +73,7 @@
  ** Today's progress** : Praticed the coding for ascal triangle and play aroung SQL db.
 
 ### Date:30/01/2019
- ** Today's progress** : Completed the python free course in Udacity also re-visited the Advance Lane Detection project and re-worked in code.
+ ** Today's progress** : Satrted doing project Daibetic retinopathy and Revising the C++ concpets by watching videos in U tube.
 
 
  
