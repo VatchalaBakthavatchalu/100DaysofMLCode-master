@@ -70,10 +70,17 @@
  ** Today's progress** : Satrted learning about SQL and C++ free course in Udacity also re-visited the Finding  Lane Detection project and re-worked in code with np.polyfit.
 
 ### Date:29/01/2019
- ** Today's progress** : Praticed the coding for ascal triangle and play aroung SQL db.
+ ** Today's progress** : Praticed the coding for ascal triangle and play around SQL db.
 
 ### Date:30/01/2019
- ** Today's progress** : Satrted doing project Daibetic retinopathy and Revising the C++ concpets by watching videos in U tube.
+ ** Today's progress** : Started doing project Daibetic retinopathy and Revising the C++ concpets by watching videos in U tube.
+
+### Date:31/01/2019
+ ** Today's progress** : Started doing the project 5 in Udacity as apart of Self Driving car project and Revising the C++ concpets by watching videos in U tube and trying to print the pattern using c++.
+
+
+### Date:01/02/2019
+ ** Today's progress** : Learned about the Kalman filter.
 
 
  
