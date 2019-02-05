@@ -80,7 +80,23 @@
 
 
 ### Date:01/02/2019
+ ** Today's progress** : Learned about the Kalman filter and praticing the c++.
+
+### Date:02/02/2019
  ** Today's progress** : Learned about the Kalman filter.
+
+
+### Date:03/02/2019
+ ** Today's progress** : Learned about the Kalman filter.
+
+
+### Date:04/02/2019
+ ** Today's progress** : Learned about the Kalman filter and practised the Patern in c++.
+
+
+### Date:05/02/2019
+ ** Today's progress** : Learned about the Kalman filter and gaussina distribution.
+
 
 
  
