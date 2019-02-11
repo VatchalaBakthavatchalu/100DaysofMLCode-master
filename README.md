@@ -115,7 +115,11 @@
 
 
 ### Date:10/02/2019
- ** Today's progress** : Praticing the Python concepts.
+ ** Today's progress** : Praticing the Python concept
+
+
+### Date:10/02/2019
+ ** Today's progress** : Implemented a Matrix Class in python.
 
 
 
