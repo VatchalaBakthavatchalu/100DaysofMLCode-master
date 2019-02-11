@@ -67,7 +67,7 @@
  ** Today's progress** : Completed the python free course in Udacity also re-visited the Advance Lane Detection project and re-worked in code.
 
 ### Date:28/01/2019
- ** Today's progress** : Satrted learning about SQL and C++ free course in Udacity also re-visited the Finding  Lane Detection project and re-worked in code with np.polyfit.
+ ** Today's progress** : Started learning about SQL and C++ free course in Udacity also re-visited the Finding  Lane Detection project and re-worked in code with np.polyfit.
 
 ### Date:29/01/2019
  ** Today's progress** : Praticed the coding for ascal triangle and play around SQL db.
@@ -96,6 +96,26 @@
 
 ### Date:05/02/2019
  ** Today's progress** : Learned about the Kalman filter and gaussina distribution.
+
+
+### Date:06/02/2019
+ ** Today's progress** : Working Project5.
+
+
+### Date:07/02/2019
+ ** Today's progress** : Working Project5.
+ 
+
+### Date:08/02/2019
+ ** Today's progress** : Working Project5.
+
+
+### Date:09/02/2019
+ ** Today's progress** : Praticing the Python concepts.
+
+
+### Date:10/02/2019
+ ** Today's progress** : Praticing the Python concepts.
 
 
 
