@@ -121,6 +121,12 @@
 ### Date:11/02/2019
  ** Today's progress** : Implemented a Matrix Class in python.
 
+### Date:12/02/2019
+ ** Today's progress** : Studied Deep Q learning.
+
+### Date:17/02/2019
+ ** Today's progress** : Implementing Self driving car with deep Q learning.
+
 
 
  
