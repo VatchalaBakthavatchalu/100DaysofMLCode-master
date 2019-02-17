@@ -124,6 +124,16 @@
 ### Date:12/02/2019
  ** Today's progress** : Studied Deep Q learning.
 
+### Date:13/02/2019
+ ** Today's progress** : Contnuing Studying Deep Q learning.
+
+### Date:13/02/2019
+ ** Today's progress** : Contnuing Studying Deep Q learning.
+
+### Date:13/02/2019
+ ** Today's progress** : Contnuing Studying Deep Q learning.
+
+
 ### Date:17/02/2019
  ** Today's progress** : Implementing Self driving car with deep Q learning.
 
