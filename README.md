@@ -138,6 +138,19 @@
  ** Today's progress** : Implementing Self driving car with deep Q learning.
 
 
+### Date:18/02/2019
+ ** Today's progress** : Implementing Linear regression.
+
+
+### Date:19/02/2019
+ ** Today's progress** : Implementing Logistic regression.
+
+
+
+### Date:20/02/2019
+ ** Today's progress** : Re-worked on the Behavioral Cloning Project.
+
+
 
  
 
