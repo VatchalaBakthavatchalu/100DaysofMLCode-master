@@ -139,16 +139,19 @@
 
 
 ### Date:18/02/2019
- ** Today's progress** : Implementing Linear regression.
+ ** Today's progress** : Implementing Linear regression in jupyter notebook.
 
 
 ### Date:19/02/2019
- ** Today's progress** : Implementing Logistic regression.
+ ** Today's progress** : Implementing Logistic regression in jupyter notebook.
 
 
 
 ### Date:20/02/2019
  ** Today's progress** : Re-worked on the Behavioral Cloning Project.
+
+### Date:21/02/2019
+ ** Today's progress** : Revisiting the Coursera concepts.
 
 
 
