@@ -151,7 +151,17 @@
  ** Today's progress** : Re-worked on the Behavioral Cloning Project.
 
 ### Date:21/02/2019
- ** Today's progress** : Revisiting the Coursera concepts.
+ ** Today's progress** : Revisiting the SQL concepts.
+
+### Date:22/02/2019
+ ** Today's progress** : Revisiting the SQL concepts.
+
+### Date:23/02/2019
+ ** Today's progress** : Revisiting the SQL concepts.
+
+### Date:24/02/2019
+ ** Today's progress** : Revisiting the SQL concepts.
+
 
 
 
