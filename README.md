@@ -162,6 +162,12 @@
 ### Date:24/02/2019
  ** Today's progress** : Revisiting the SQL concepts.
 
+### Date:27/02/2019
+ ** Today's progress** : Implementating the simple DQN.
+
+### Date:28/02/2019
+ ** Today's progress** : Learned about Dot product and Eigen values.
+
 
 
 
