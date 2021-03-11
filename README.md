@@ -1,4 +1,4 @@
-# 100DaysOfMLCode
+# 100DaysOfMLCodes
 
   Lets Ready For Fun Guys
 
